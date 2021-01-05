@@ -1,1 +1,5 @@
 # Herramienta-y-tecnicas-de-investigacion
+El presente repositorio es parte del electivo de Técnicas y Herramientas de Investigación impartido en la carrera de Administración Pública y Ciencia Política de la Universidad de Concepción. En el año 2020 se aprendió el manejo de la ciencia de datos. Estudiamos software particualares como stata con el profesor Sergio Toro, spss con el profesor Mario Herrera y Atlas. ti con Natalia Riquelme. Profundizamos en la ciencia de datos con R en temas como limpieza y análisis de datos. Análisis de textos con Riva Quiroga. Georreferencia y análisis de redes con Daniel Alcatruz y terminamos con el análisis de la encuesta CASEN en R con el profesor Sergio Toro.
+Este repositorio congrega los script ocupados en las diferentes sesiones por los profesores invitados en las diferentes clases para que se encuentren disponibles para los alumnos y alumnas asistentes al electivo y libres para quien quiera aprender y quiera utilizarlos.
+
+Macarean Valenzuela Beltrán. 
